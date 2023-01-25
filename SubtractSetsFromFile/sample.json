@@ -1,0 +1,53 @@
+{
+    "firstGroup":[
+        {
+        "id":1,
+        "name":"cat",
+        "predator":true
+        },{
+        "id":2,
+        "name":"dog",
+        "predator":true
+        }
+    ],
+    "secondGroup":[
+        {
+        "id":4135,
+        "firstGroupId":2,
+        "name":"Dogs food",
+        "status":1
+        },{
+        "id":4137,
+        "firstGroupId":3,
+        "name":"Birds food",
+        "status":1
+        },{
+        "id":4139,
+        "firstGroupId":7,
+        "name":"Papers",
+        "status":1
+        },{
+        "id":4141,
+        "firstGroupId":2,
+        "name":"Game for dogs",
+        "status":1
+        }
+    ],
+    "thirdGroup":[
+        {
+        "id":12211,
+        "firstGroupId":3,
+        "secondGroupId":4137,
+        "name":"sunflower seeds",
+        "price":7.0
+        },{
+        "id":12212,
+        "firstGroupId":2,
+        "secondGroupId":5000,
+        "name":"rubber balls",
+        "price":7.0
+        }
+    ],
+    "hundredthGroup":[]
+}
+
